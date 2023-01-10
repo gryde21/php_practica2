@@ -1,0 +1,9 @@
+section {
+    width: auto;
+    max-width: 60vw;
+    margin: auto;
+}
+.card-debug {
+    border: 1px solid red;
+    margin: 0px;
+}
